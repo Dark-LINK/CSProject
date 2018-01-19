@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1516182296 source:c:\users\dark_link\documents\codeblocks\cclassprojectmain\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
